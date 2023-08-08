@@ -9,7 +9,23 @@ This is a static SPA forged from their requirement:
 
 ### Deployment
 
-- [HerokuApp](https://assessment-project-broadcast-7d3baa89f676.herokuapp.com/)
+- This app is already deployed on [HerokuApp](https://assessment-project-broadcast-7d3baa89f676.herokuapp.com/)
+
+```bash
+# Install Dependencies
+npm i
+```
+
+```bash
+# Build Webpack
+npm run build
+```
+
+```bash
+# Start the server
+npm start
+```
+
 
 ### Dependency
 

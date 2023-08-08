@@ -10,7 +10,7 @@
   "scripts": {
     "build": "webpack",
     "building": "webpack -w",
-    "start": "node server/index.js --openssl-legacy-provider",
+    "start": "node server/index.js",
     "starting": "nodemon server/index.js",
     "test": ""
   },

@@ -4,9 +4,6 @@
   "description": "A mini frontend challenge during a hiring process",
   "author": "Conglin Pu",
   "license": "UNLICENSED",
-  "engines": {
-    "node": ">=16.0.0"
-  },
   "scripts": {
     "build": "webpack",
     "building": "webpack -w",

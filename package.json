@@ -1,5 +1,5 @@
 {
-  "name": "assessment-coalition-technologies",
+  "name": "assessment-project-broadcast",
   "version": "1.0.0",
   "description": "A mini frontend challenge during a hiring process",
   "author": "Conglin Pu",
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
+    "lia-luhn-algorithm": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

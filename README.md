@@ -9,7 +9,7 @@ This is a static SPA forged from their requirement:
 
 ### Deployment
 
-- This app is already deployed on [Vercel]([https://assessment-project-broadcast-7d3baa89f676.herokuapp.com/](https://assessment-project-broadcast-6vxmikuog-late1nautumn.vercel.app/))
+- This app is already deployed on [Vercel](https://assessment-project-broadcast-6vxmikuog-late1nautumn.vercel.app/)
 
 ```bash
 # Install Dependencies
